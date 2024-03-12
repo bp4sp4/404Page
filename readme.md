@@ -2,7 +2,7 @@
 
 <h2>24/02/12(금) 시작 ~ 24/02/12 끝</h2>
 
-데모사이트 - airbnb
+데모사이트 - <a href="https://bp4sp4.github.io/404Page/">404Page</a>
 
 <h3>24/02/12</h3>
 <h3>svg 이미지</h3>

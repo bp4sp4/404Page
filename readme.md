@@ -1,10 +1,10 @@
 # 404Page(w.fastcompus)
 
-<h2>24/02/12(금) 시작 ~ 24/02/12 끝</h2>
+<h2>24/03/12(금) 시작 ~ 24/03/12 끝</h2>
 
 데모사이트 - <a href="https://bp4sp4.github.io/404Page/">404Page</a>
 
-<h3>24/02/12</h3>
+<h3>24/03/12</h3>
 <h3>svg 이미지</h3>
 
 - fastcompus에서 제공한 svg 파일 html에 가져옴
